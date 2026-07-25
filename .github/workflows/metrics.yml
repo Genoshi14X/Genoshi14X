@@ -20,8 +20,9 @@ jobs:
           user: Genoshi14X
 
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
 
           plugin_anilist: yes
           plugin_anilist_user: Genoshi14
           plugin_anilist_sections: favorites, watching, reading
+          plugin_anilist_limit: 5
