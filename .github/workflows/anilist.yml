@@ -23,8 +23,6 @@ jobs:
 
           template: classic
 
-          base: ""
-
           config_timezone: Asia/Tokyo
           config_theme: github-dark
 
