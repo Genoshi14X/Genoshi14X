@@ -21,3 +21,10 @@ jobs:
 
           template: classic
           base: header, activity, community, repositories
+
+          plugin_anilist: yes
+          plugin_anilist_user: Genoshi14
+          plugin_anilist_sections: |
+              favorites
+              watching
+              reading

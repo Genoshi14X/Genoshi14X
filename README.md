@@ -35,3 +35,7 @@ Managing and creating content for several Telegram communities.
 ## 📊 GitHub Metrics
 
 ![Metrics](https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/metrics.svg)
+
+## 🎌 Anime & Manga
+
+![Anime](https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/metrics.plugin.anilist.svg)
