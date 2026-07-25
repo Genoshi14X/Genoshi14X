@@ -1,13 +1,15 @@
-name: AniList Metrics
+name: GitHub Metrics
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  anilist:
+  metrics:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,9 +18,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: Genoshi14X
-          filename: metrics.plugin.anilist.svg
+          filename: github-metrics.svg
 
-          base: ""
+          template: classic
+
+          base: header, activity, community, repositories, metadata
 
           plugin_anilist: yes
           plugin_anilist_user: Genoshi14
