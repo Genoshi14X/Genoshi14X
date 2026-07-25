@@ -29,3 +29,9 @@ Managing and creating content for several Telegram communities.
 ---
 
 *"Creating, learning and sharing — one project at a time."*
+
+---
+
+## 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/metrics.svg)
