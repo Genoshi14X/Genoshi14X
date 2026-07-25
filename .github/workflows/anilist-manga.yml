@@ -1,15 +1,15 @@
-name: AniList Metrics
+name: AniList Manga
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  anilist:
+  manga:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,21 +19,16 @@ jobs:
 
           user: Genoshi14X
 
-          filename: metrics.plugin.anilist.svg
+          filename: manga.svg
           output_action: commit
 
           template: classic
-
           base: ""
 
           plugin_anilist: yes
           plugin_anilist_user: Genoshi14
 
-          plugin_anilist_medias: anime, manga
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: reading, favorites
 
-          plugin_anilist_sections: watching, reading, favorites, characters
-
-          plugin_anilist_limit: 3
-          plugin_anilist_limit_characters: 6
-
-          plugin_anilist_shuffle: yes
+          plugin_anilist_limit: 5
