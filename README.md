@@ -36,7 +36,6 @@ Managing and creating content for several Telegram communities.
 
 ![Metrics](https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/github-metrics.svg)
 
-
 ## 🎌 Anime
 
 <div style="text-align: center;">
@@ -48,7 +47,6 @@ alt="Anime statistics"
 
 </div>
 
-
 ## 📚 Manga
 
 <div style="text-align: center;">
@@ -59,7 +57,6 @@ alt="Manga statistics"
 />
 
 </div>
-
 
 ## 💜 Favorite Characters
 
