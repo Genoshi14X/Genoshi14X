@@ -23,7 +23,6 @@ Building and maintaining a local network and router projects.
 ### 💻 PC Building
 Building custom PCs, exploring hardware and helping others with computer setups.
 
-333333
 ### 📢 Telegram Channels
 Managing and creating content for several Telegram communities.
 
