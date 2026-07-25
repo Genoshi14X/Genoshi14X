@@ -22,13 +22,16 @@ jobs:
           output_action: commit
 
           template: classic
-          config_timezone: Asia/Tokyo
-          config_display: large
 
-          base: header
+          base: ""
+
+          config_timezone: Asia/Tokyo
+          config_theme: github-dark
 
           plugin_anilist: yes
           plugin_anilist_user: Genoshi14
-          plugin_anilist_sections: watching, reading, favorites
+
+          plugin_anilist_sections: watching, reading, favorites, characters
+
           plugin_anilist_limit: 6
-          plugin_anilist_medias: anime, manga
+          plugin_anilist_shuffle: true
