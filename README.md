@@ -4,7 +4,7 @@ I'm not a full-time developer, but I love building things with technology.
 
 My main background is **Digital Marketing and SEO**, but I'm constantly exploring web development, automation and AI-powered tools.
 
-## 🚀 What I do
+## What I do
 
 - 🔍 Digital Marketing & SEO
 - 🌐 Website development and optimization
@@ -12,7 +12,7 @@ My main background is **Digital Marketing and SEO**, but I'm constantly explorin
 - 🖥️ PC building and hardware projects
 - 🎮 PC and console gaming
 
-## 🛠️ My Projects
+## My Projects
 
 ### 📚 Under Ninja Translation
 Translating the manga **Under Ninja** and working with the community.
@@ -25,13 +25,6 @@ Building custom PCs, exploring hardware and helping others with computer setups.
 
 ### 📢 Telegram Channels
 Managing and creating content for several Telegram communities.
-
-## 🌱 Currently Learning
-
-- Nuxt & Vue
-- Modern web development
-- Cloud technologies
-- Automation with AI
 
 ---
 
