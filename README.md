@@ -39,20 +39,35 @@ Managing and creating content for several Telegram communities.
 
 ## 🎌 Anime
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/anime.svg">
-</p>
+<div style="text-align: center;">
+
+<img
+src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/anime.svg"
+alt="Anime statistics"
+/>
+
+</div>
 
 
 ## 📚 Manga
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/manga.svg">
-</p>
+<div style="text-align: center;">
+
+<img
+src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/manga.svg"
+alt="Manga statistics"
+/>
+
+</div>
 
 
-## 💜 Characters
+## 💜 Favorite Characters
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/characters.svg">
-</p>
+<div style="text-align: center;">
+
+<img
+src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/characters.svg"
+alt="Favorite anime characters"
+/>
+
+</div>
