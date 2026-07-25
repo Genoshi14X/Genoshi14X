@@ -22,10 +22,13 @@ jobs:
           output_action: commit
 
           template: classic
+          config_timezone: Asia/Tokyo
+          config_display: large
 
           base: header
 
           plugin_anilist: yes
           plugin_anilist_user: Genoshi14
-          plugin_anilist_sections: favorites, watching, reading
-          plugin_anilist_limit: 5
+          plugin_anilist_sections: watching, reading, favorites
+          plugin_anilist_limit: 6
+          plugin_anilist_medias: anime, manga
