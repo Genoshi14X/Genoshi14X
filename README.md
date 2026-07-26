@@ -68,3 +68,6 @@ alt="Favorite anime characters"
 />
 
 </div>
+
+Spotify 
+<img src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/metrics.plugin.music.svg">
