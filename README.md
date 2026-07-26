@@ -68,11 +68,3 @@ alt="Favorite anime characters"
 />
 
 </div>
-
-## 🎧 Spotify
-
-<div style="text-align: center;">
-
-<img src="https://raw.githubusercontent.com/Genoshi14X/Genoshi14X/main/spotify.svg" alt="Spotify">
-
-</div>
