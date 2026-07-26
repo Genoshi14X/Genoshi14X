@@ -68,3 +68,7 @@ alt="Favorite anime characters"
 />
 
 </div>
+
+## 🎧 Spotify
+
+<img src="./spotify.svg">
