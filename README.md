@@ -30,5 +30,4 @@ Managing and creating content for several Telegram communities.
 
 *"Creating, learning and sharing — one project at a time."*
 
----
-![GENOSHI SYSTEM](assets/genoshi-system.gif)
+![GENOSHI SYSTEM](.github/assets/genoshi-system.gif)
