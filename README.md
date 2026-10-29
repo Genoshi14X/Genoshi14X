@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ivan
 
+![GENOSHI SYSTEM](.github/assets/genoshi-system.gif)
+
 I'm not a full-time developer, but I love building things with technology.
 
 My main background is **Digital Marketing and SEO**, but I'm constantly exploring web development, automation and AI-powered tools.
@@ -30,4 +32,3 @@ Managing and creating content for several Telegram communities.
 
 *"Creating, learning and sharing — one project at a time."*
 
-![GENOSHI SYSTEM](.github/assets/genoshi-system.gif)
